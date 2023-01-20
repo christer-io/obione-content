@@ -1,0 +1,4 @@
+## Does Open Source mean anybody else can use my name and logo?
+### Answer:
+No, at least not any more than they could otherwise. Open Source is about software source code, not about identity. That is, letting people use your code under an Open Source license is not the same as letting them use your trademarks or other identifying attributes, except insofar as they would be permitted to anyway (for example, in nominative use doctrine). There are many companies and other organizations that release open source code while exercising tight control over their trademarks.
+Trademarks and other marks of attribution are primarily about preventing public confusion over identity and provenance, and therefore trademark regulation is useful in Open Source software in the same way it is useful generally.
