@@ -1,4 +1,4 @@
-## Is <SOME PROGRAM> Open Source simply because it's written in <SOME OPEN SOURCE LICENSED LANGUAGE>?
+## Is (SOME PROGRAM) Open Source simply because it's written in (SOME OPEN SOURCE LICENSED LANGUAGE)?
 
 ### Answer:
 
