@@ -1,4 +1,4 @@
-## WILL the Open Database License (ODbL) create legal uncertainty? 
+## Will the Open Database License (ODbL) create legal uncertainty? 
 
 ### Answer: The simple answer is: no.
 
