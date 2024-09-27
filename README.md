@@ -1,4 +1,4 @@
-# obione-content
+# Obione content
 Content repo for the ObiOne.no
 
 Content is curently stored for each language as one .zip file. 
